@@ -1,5 +1,5 @@
 import {Controller} from "@projectinvicta/nails";
-import Tool from '../models/Tool.ts';
+import Tool from '../models/Tool.js';
 
 export default class ApiController extends Controller {
     json = true;
