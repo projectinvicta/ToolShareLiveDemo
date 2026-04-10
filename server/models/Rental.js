@@ -1,6 +1,6 @@
 import { Model, DataTypes } from "@projectinvicta/nails";
-import Tool from "./Tool.ts";
-import User from "./User.ts";
+import Tool from "./Tool.js";
+import User from "./User.js";
 
 export const schema = {
   startDate: {

@@ -1,5 +1,5 @@
 import {Model, DataTypes} from "@projectinvicta/nails";
-import User from "./User.ts";
+import User from "./User.js";
 import Rental from "./Rental.js";
 
 export const schema = {
